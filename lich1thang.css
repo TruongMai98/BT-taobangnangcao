@@ -1,0 +1,66 @@
+caption{
+    color: blue;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 0.1px solid;
+    text-align: center;
+}
+table{
+    width: 500px;
+    height: 300px;
+    border-right-color: white;
+    border-left-color: white;
+    border-bottom-color: white;
+    border-top-color: white;
+}
+th{
+    background-color: orange;
+    color: white;
+}
+.th1-1{
+    background-color: red;
+}
+.th1-2{
+    background-color: blue;
+}
+.th2{
+    background-color:white;
+    color: black;
+    border-bottom-color: black;
+    border-left-color: white;
+    border-right-color: white;
+}
+.th2-1{
+    background-color: white;
+    color: red;
+    border-right-color: white;
+    border-left-color: white;
+    border-bottom-color: black;
+    border-top-color: white;
+}
+.th2-2{
+    background-color: white;
+    color: blue;
+    border-right-color: white;
+    border-left-color: white;
+    border-bottom-color: black;
+    border-top-color: white;
+}
+.td1{
+    color: red;
+    border-right-color: black;
+    border-left-color: black;
+    border-bottom-color: black;
+    border-top-color: black;
+}
+.sub1{
+    color: black;
+}
+.td2{
+    color: blue;
+    border-right-color: black;
+    border-left-color: black;
+    border-bottom-color: black;
+    border-top-color: black;
+}
